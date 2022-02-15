@@ -1,0 +1,6 @@
+str = str(input('Digite algo: '))
+print(f'É maisculo? {str.isupper()}')
+print(f'É minusculo? {str.islower()}')
+print(f'É alfa? {str.isalpha()}')
+print(f'É alfanumérico? {str.isalnum()}')
+print(f'É um espaço? {str.isspace()}')
