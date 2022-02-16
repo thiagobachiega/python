@@ -13,18 +13,7 @@ for l in range(0, 3):
 for l in range(0, 3):
     somac = somac + matriz[l][2]
 
-
-
-
-
-
-
-
-
-
-
 print(matriz)
 print(f'A soma dos valores pares é de: {soma}')
 print(f'A soma dos valores na terceira coluna é: {somac}')
 print(f'O maior valor na segunda linha é: {maior}')
-

@@ -13,24 +13,6 @@ while cont <= quant:
         quant = int(input('Quantas a mais?'))
         quant = quant + c'''
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #versão guanabara
 
 primeiro = int(input('Primeiro termo: '))
